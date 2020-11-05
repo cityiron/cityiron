@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm ChengTie 👋
 
 <!--
 **cityiron/cityiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-readme-stats.vercel.app/api?username=cityiron)
+
+![counter](https://eno283hcmac4ofr.m.pipedream.net/)
